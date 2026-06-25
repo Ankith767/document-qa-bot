@@ -72,3 +72,7 @@ document-qa-bot/
 3. User query is embedded and matched against chunks
 4. Top matching chunks are sent to Gemini with the query
 5. Gemini returns a grounded answer with citations
+
+
+Live/Deploy Link :
+https://document-app-bot-ticgrdzf2h7jfy2vsq4xx4.streamlit.app/
